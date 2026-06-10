@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/mangonui/mx-chain-txgen-go/submit"
+	"github.com/xorewa/mx-chain-txgen-go/submit"
 )
 
 // BasicScenario emits native EGLD transfers between accounts in the pool.

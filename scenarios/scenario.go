@@ -5,12 +5,12 @@ import (
 
 	sdkData "github.com/multiversx/mx-sdk-go/data"
 
-	"github.com/mangonui/mx-chain-txgen-go/accounts"
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/nonces"
-	"github.com/mangonui/mx-chain-txgen-go/proxy"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
-	"github.com/mangonui/mx-chain-txgen-go/submit"
+	"github.com/xorewa/mx-chain-txgen-go/accounts"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/nonces"
+	"github.com/xorewa/mx-chain-txgen-go/proxy"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/submit"
 )
 
 // Request is the normalized form of an HTTP load-test request. The API

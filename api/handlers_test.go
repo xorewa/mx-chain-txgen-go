@@ -15,11 +15,11 @@ import (
 	"github.com/gin-gonic/gin"
 	sdkData "github.com/multiversx/mx-sdk-go/data"
 
-	"github.com/mangonui/mx-chain-txgen-go/accounts"
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/scenarios"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
-	"github.com/mangonui/mx-chain-txgen-go/stats"
+	"github.com/xorewa/mx-chain-txgen-go/accounts"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/scenarios"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/stats"
 )
 
 // fakeScenario is a Scenario implementation that produces deterministic

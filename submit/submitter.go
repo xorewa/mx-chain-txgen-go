@@ -9,8 +9,8 @@ import (
 	sdkBuilders "github.com/multiversx/mx-sdk-go/builders"
 	sdkInteractors "github.com/multiversx/mx-sdk-go/interactors"
 
-	"github.com/mangonui/mx-chain-txgen-go/accounts"
-	"github.com/mangonui/mx-chain-txgen-go/proxy"
+	"github.com/xorewa/mx-chain-txgen-go/accounts"
+	"github.com/xorewa/mx-chain-txgen-go/proxy"
 )
 
 // DefaultBunchSize is the fallback batch size when a caller constructs

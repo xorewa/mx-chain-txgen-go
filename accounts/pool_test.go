@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
 )
 
 func mustCoordinator(t *testing.T, n uint32) *shards.Coordinator {

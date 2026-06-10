@@ -11,17 +11,17 @@ import (
 
 	"time"
 
-	"github.com/mangonui/mx-chain-txgen-go/accounts"
-	"github.com/mangonui/mx-chain-txgen-go/api"
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/faucet"
-	"github.com/mangonui/mx-chain-txgen-go/nonces"
-	"github.com/mangonui/mx-chain-txgen-go/proxy"
-	"github.com/mangonui/mx-chain-txgen-go/scenarios"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
-	"github.com/mangonui/mx-chain-txgen-go/stats"
-	"github.com/mangonui/mx-chain-txgen-go/submit"
-	"github.com/mangonui/mx-chain-txgen-go/version"
+	"github.com/xorewa/mx-chain-txgen-go/accounts"
+	"github.com/xorewa/mx-chain-txgen-go/api"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/faucet"
+	"github.com/xorewa/mx-chain-txgen-go/nonces"
+	"github.com/xorewa/mx-chain-txgen-go/proxy"
+	"github.com/xorewa/mx-chain-txgen-go/scenarios"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/stats"
+	"github.com/xorewa/mx-chain-txgen-go/submit"
+	"github.com/xorewa/mx-chain-txgen-go/version"
 )
 
 func main() {

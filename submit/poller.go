@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/proxy"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/proxy"
 )
 
 // Poller waits for a transaction hash to reach a terminal state. Used by

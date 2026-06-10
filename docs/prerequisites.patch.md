@@ -1,4 +1,4 @@
-# Wiring mx-chain-txgen-go (mangonui fork) into the mx-chain-go testnet scripts
+# Wiring mx-chain-txgen-go (xorewa fork) into the mx-chain-go testnet scripts
 
 `mx-chain-go/scripts/testnet/prerequisites.sh` line 62 of the v2.0.0
 snapshot clones the upstream private repo via SSH:
@@ -19,7 +19,7 @@ one-line patch on top of the v2.0.0 scripts:
    then
      pushd $(dirname $MULTIVERSXDIR)
 -    git clone git@github.com:multiversx/mx-chain-txgen-go.git
-+    git clone git@github.com:mangonui/mx-chain-txgen-go.git
++    git clone git@github.com:xorewa/mx-chain-txgen-go.git
      popd
    fi
  fi
@@ -44,7 +44,7 @@ fork manually as a sibling of `mx-chain-go` before running
 
 ```bash
 cd $(dirname $(pwd))   # one level above mx-chain-go
-git clone git@github.com:mangonui/mx-chain-txgen-go.git
+git clone git@github.com:xorewa/mx-chain-txgen-go.git
 ```
 
 `prerequisites.sh` will see the directory already exists and skip the

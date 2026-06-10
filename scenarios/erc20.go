@@ -7,8 +7,8 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/mangonui/mx-chain-txgen-go/shards"
-	"github.com/mangonui/mx-chain-txgen-go/submit"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/submit"
 )
 
 // ERC20Scenario implements the upstream txgen's three ERC20 sub-commands:

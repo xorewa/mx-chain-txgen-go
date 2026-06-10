@@ -10,7 +10,7 @@ import (
 	sdkCore "github.com/multiversx/mx-sdk-go/core"
 	sdkData "github.com/multiversx/mx-sdk-go/data"
 
-	"github.com/mangonui/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/config"
 )
 
 // SDKProxy is the subset of mx-sdk-go's Proxy interface that the txgen needs.

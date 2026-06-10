@@ -3,7 +3,7 @@ package submit
 import (
 	"testing"
 
-	"github.com/mangonui/mx-chain-txgen-go/proxy"
+	"github.com/xorewa/mx-chain-txgen-go/proxy"
 )
 
 func TestNewShouldApplyDefaultBunchSize(t *testing.T) {

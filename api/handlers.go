@@ -7,10 +7,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/mangonui/mx-chain-txgen-go/scenarios"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
-	"github.com/mangonui/mx-chain-txgen-go/stats"
-	"github.com/mangonui/mx-chain-txgen-go/version"
+	"github.com/xorewa/mx-chain-txgen-go/scenarios"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/stats"
+	"github.com/xorewa/mx-chain-txgen-go/version"
 )
 
 // reportWindows defines the rolling intervals exposed by GET /stats. The

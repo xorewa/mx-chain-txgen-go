@@ -8,7 +8,7 @@ import (
 	sdkBlockchainCrypto "github.com/multiversx/mx-sdk-go/blockchain/cryptoProvider"
 	sdkData "github.com/multiversx/mx-sdk-go/data"
 
-	"github.com/mangonui/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
 )
 
 // BuildAccount derives a fully-formed Account from a raw ed25519 private

@@ -7,9 +7,9 @@
 //
 // Inject at build time:
 //
-//	go build -ldflags "-X github.com/mangonui/mx-chain-txgen-go/version.Version=v0.1.0 \
-//	                   -X github.com/mangonui/mx-chain-txgen-go/version.Commit=576e93c1 \
-//	                   -X github.com/mangonui/mx-chain-txgen-go/version.BuildDate=2026-05-11T12:00:00Z"
+//	go build -ldflags "-X github.com/xorewa/mx-chain-txgen-go/version.Version=v0.1.0 \
+//	                   -X github.com/xorewa/mx-chain-txgen-go/version.Commit=576e93c1 \
+//	                   -X github.com/xorewa/mx-chain-txgen-go/version.BuildDate=2026-05-11T12:00:00Z"
 package version
 
 // These are overwritten at link time via ldflags. They must remain `var`

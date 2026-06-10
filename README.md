@@ -249,7 +249,7 @@ seednode  →  validators × N  →  observers × N
 This implementation is deliberately upstream-MultiversX-shaped. To migrate
 to DRWA:
 
-1. Rename the module path from `github.com/mangonui/mx-chain-txgen-go` to
+1. Rename the module path from `github.com/xorewa/mx-chain-txgen-go` to
    the DRWA path; update imports.
 2. Add DRWA-specific scenarios in `scenarios/` (e.g. `rwa.go` for parcel
    tokenisation, `mrv.go` for synthetic oracle ingest).

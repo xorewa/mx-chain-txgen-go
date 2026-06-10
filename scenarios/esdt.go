@@ -8,7 +8,7 @@ import (
 	coreTxn "github.com/multiversx/mx-chain-core-go/data/transaction"
 	sdkData "github.com/multiversx/mx-sdk-go/data"
 
-	"github.com/mangonui/mx-chain-txgen-go/submit"
+	"github.com/xorewa/mx-chain-txgen-go/submit"
 )
 
 // issuanceEventIdentifiers enumerates the chain-emitted log identifiers

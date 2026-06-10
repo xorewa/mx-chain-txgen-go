@@ -10,7 +10,7 @@ VERSION   ?= $(shell git describe --tags --always --dirty 2>/dev/null || echo de
 COMMIT    ?= $(shell git rev-parse --short HEAD 2>/dev/null || echo unknown)
 BUILDDATE ?= $(shell date -u +%Y-%m-%dT%H:%M:%SZ 2>/dev/null || echo unknown)
 
-VERSION_PKG := github.com/mangonui/mx-chain-txgen-go/version
+VERSION_PKG := github.com/xorewa/mx-chain-txgen-go/version
 LDFLAGS := -ldflags "-X $(VERSION_PKG).Version=$(VERSION) \
 	-X $(VERSION_PKG).Commit=$(COMMIT) \
 	-X $(VERSION_PKG).BuildDate=$(BUILDDATE)"

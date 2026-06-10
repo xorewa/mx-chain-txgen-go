@@ -10,8 +10,8 @@ import (
 
 	sdkCore "github.com/multiversx/mx-sdk-go/core"
 
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
 )
 
 // newSmallPool spins up a pool of n accounts for tests that care only

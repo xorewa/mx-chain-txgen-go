@@ -23,11 +23,11 @@ import (
 	sdkData "github.com/multiversx/mx-sdk-go/data"
 	sdkInteractors "github.com/multiversx/mx-sdk-go/interactors"
 
-	"github.com/mangonui/mx-chain-txgen-go/accounts"
-	"github.com/mangonui/mx-chain-txgen-go/nonces"
-	"github.com/mangonui/mx-chain-txgen-go/proxy"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
-	"github.com/mangonui/mx-chain-txgen-go/submit"
+	"github.com/xorewa/mx-chain-txgen-go/accounts"
+	"github.com/xorewa/mx-chain-txgen-go/nonces"
+	"github.com/xorewa/mx-chain-txgen-go/proxy"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/submit"
 )
 
 // faucetSentinelIndex marks the loaded faucet Account as "not a member

@@ -7,7 +7,7 @@ import (
 
 	sdkCore "github.com/multiversx/mx-sdk-go/core"
 
-	"github.com/mangonui/mx-chain-txgen-go/proxy"
+	"github.com/xorewa/mx-chain-txgen-go/proxy"
 )
 
 // Tracker is the txgen's in-memory per-address nonce manager.

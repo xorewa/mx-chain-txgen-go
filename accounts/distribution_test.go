@@ -3,8 +3,8 @@ package accounts
 import (
 	"testing"
 
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
 )
 
 // TestPool_PickReceiver_CrossShardNeverReturnsSameShard generates a

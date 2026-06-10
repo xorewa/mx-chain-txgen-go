@@ -16,8 +16,8 @@ import (
 	"github.com/multiversx/mx-chain-crypto-go/signing/ed25519"
 	sdkCore "github.com/multiversx/mx-sdk-go/core"
 
-	"github.com/mangonui/mx-chain-txgen-go/config"
-	"github.com/mangonui/mx-chain-txgen-go/shards"
+	"github.com/xorewa/mx-chain-txgen-go/config"
+	"github.com/xorewa/mx-chain-txgen-go/shards"
 )
 
 // Account is one synthetic load-test EOA. The crypto components holder is
