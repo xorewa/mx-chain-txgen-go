@@ -203,8 +203,8 @@ github.com/xorewa/mx-chain-storage-go v0.0.0-20260630162005-120dc6b184cb h1:HKsY
 github.com/xorewa/mx-chain-storage-go v0.0.0-20260630162005-120dc6b184cb/go.mod h1:3pXUVHHeC8Ga8JwVKECW+6g8+65OI+PALQccQIe+qeE=
 github.com/xorewa/mx-chain-vm-common-go v0.0.0-20260707072202-5a2360b7250e h1:ErUMtoUbrWWBMoEMk+1+ucCSTOof+quCyYiw555gltA=
 github.com/xorewa/mx-chain-vm-common-go v0.0.0-20260707072202-5a2360b7250e/go.mod h1:NDMlraMf6XbQv7O5qYzVsWQ8dFkxEQprE0gw539n2Lk=
-github.com/xorewa/mx-sdk-go v0.0.0-20260707092259-a0dd3bf282af h1:50jZ02oA5pyNdFRKvnVTXdFGamXA119pBhyYfvkCJKA=
-github.com/xorewa/mx-sdk-go v0.0.0-20260707092259-a0dd3bf282af/go.mod h1:idORcVP4/8zzOqha7k1OBOFEqGeMNMuW6GndkQfyKXA=
+github.com/xorewa/mx-sdk-go v0.0.0-20260707092621-68bfc12e3051 h1:wSGr8byXl+mVsDbfoHPDP/850V9vJCP7UkGP4W8JyYs=
+github.com/xorewa/mx-sdk-go v0.0.0-20260707092621-68bfc12e3051/go.mod h1:zLP6HdA3PRNCF77DJT3+hp+rPqHZDUPcOU56f//sXzI=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
