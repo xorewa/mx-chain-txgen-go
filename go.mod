@@ -99,4 +99,4 @@ replace github.com/multiversx/mx-sdk-go => github.com/xorewa/mx-sdk-go v0.0.0-20
 
 replace github.com/herumi/bls-go-binary => github.com/xorewa/bls-go-binary v0.0.0-20250924002409-446538da6433
 
-replace github.com/multiversx/mx-chain-proxy-go => github.com/xorewa/mx-chain-proxy-go v0.0.0-20260717064145-080f744e586e
+replace github.com/multiversx/mx-chain-proxy-go => github.com/xorewa/mx-chain-proxy-go v0.0.0-20260723154123-f76d4f150f52
