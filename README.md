@@ -30,7 +30,7 @@ make build
 # binary at cmd/txgen/txgen
 ```
 
-Requires Go 1.23+.
+Requires Go 1.26+.
 
 ## Run standalone
 
