@@ -67,7 +67,7 @@ require (
 
 replace github.com/multiversx/mx-chain-core-go => github.com/xorewa/mx-chain-core-go v0.0.0-20260731080906-2ae724dbfeb1
 
-replace github.com/multiversx/mx-chain-go => github.com/xorewa/mx-chain-go v0.0.0-20260804110756-155ac73e0bba
+replace github.com/multiversx/mx-chain-go => github.com/xorewa/mx-chain-go v0.0.0-20260804115311-09d256531d6d
 
 replace github.com/multiversx/mx-chain-crypto-go => github.com/xorewa/mx-chain-crypto-go v0.0.0-20260801082855-aa434576d3a5
 
@@ -93,7 +93,7 @@ replace github.com/multiversx/mx-chain-vm-v1_4-go => github.com/xorewa/mx-chain-
 
 replace github.com/multiversx/mx-components-big-int => github.com/xorewa/mx-components-big-int v0.0.0-20260731113157-08b2f51f7fc1
 
-replace github.com/multiversx/mx-sdk-go => github.com/xorewa/mx-sdk-go v0.0.0-20260804115208-6342d3fe131e
+replace github.com/multiversx/mx-sdk-go => github.com/xorewa/mx-sdk-go v0.0.0-20260804115311-b12403298980
 
 replace github.com/herumi/bls-go-binary => github.com/xorewa/bls-go-binary v0.0.0-20260731163832-566eb78d4b77
 
