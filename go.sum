@@ -222,6 +222,7 @@ github.com/xorewa/mx-chain-vm-common-go v0.0.0-20260731114529-af89a619a823/go.mo
 github.com/xorewa/mx-chain-vm-common-go v0.0.0-20260801091718-772b8d777a0c/go.mod h1:TZtCxlsnoLykg68k1kLk1eSbZRzAn4wvlIgGsUC4kqw=
 github.com/xorewa/mx-sdk-go v0.0.0-20260731151543-49517d5fdf13 h1:Ctm7eLgVWT7pEjkUShuAoTO2PCT3h4loQYvhAW5WpFY=
 github.com/xorewa/mx-sdk-go v0.0.0-20260731151543-49517d5fdf13/go.mod h1:SA7d/BI/7gRZwl/10F8CnOLwpGlDkUDNLuekLaO9S7k=
+github.com/xorewa/mx-sdk-go v0.0.0-20260804115208-6342d3fe131e/go.mod h1:53D3YveIq7wMhMvCEBdFtIY925UX8hMyhoxDY+HVwoA=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
