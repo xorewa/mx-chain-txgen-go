@@ -93,7 +93,7 @@ replace github.com/multiversx/mx-chain-vm-v1_4-go => github.com/xorewa/mx-chain-
 
 replace github.com/multiversx/mx-components-big-int => github.com/xorewa/mx-components-big-int v0.0.0-20260731113157-08b2f51f7fc1
 
-replace github.com/multiversx/mx-sdk-go => github.com/xorewa/mx-sdk-go v0.0.0-20260804115311-b12403298980
+replace github.com/multiversx/mx-sdk-go => github.com/xorewa/mx-sdk-go v0.0.0-20260804115421-4c216d1e40c0
 
 replace github.com/herumi/bls-go-binary => github.com/xorewa/bls-go-binary v0.0.0-20260731163832-566eb78d4b77
 
